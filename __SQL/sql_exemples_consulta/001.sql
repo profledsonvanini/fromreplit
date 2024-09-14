@@ -1,0 +1,1 @@
+SELECT * FROM usuario.telefonia  limit 5 ;
